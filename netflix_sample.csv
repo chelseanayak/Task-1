@@ -1,0 +1,11 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration
+1,Movie,The Great Escape,John Sturges,United States,September 1 2020,1963,PG,172 min
+2,TV Show,Stranger Things,,United States,July 15 2016,2016,TV-14,3 Seasons
+3,Movie,Inception,Christopher Nolan,United States,August 10 2019,2010,PG-13,148 min
+4,Movie,Parasite,Bong Joon-ho,South Korea,January 5 2020,2019,R,132 min
+5,TV Show,Money Heist,,Spain,March 20 2018,2018,TV-MA,5 Seasons
+6,Movie,The Dark Knight,Christopher Nolan,United States,July 18 2008,2008,PG-13,152 min
+7,Movie,The Dark Knight,Christopher Nolan,United States,July 18 2008,2008,PG-13,152 min
+8,TV Show,Sacred Games,Anurag Kashyap,India,July 6 2018,2018,TV-MA,2 Seasons
+9,Movie,Dangal,Nitesh Tiwari,India,December 21 2016,2016,PG,161 min
+10,Movie,3 Idiots,Rajkumar Hirani,India,,2009,PG-13,170 min
